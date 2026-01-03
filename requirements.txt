@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+pdfplumber
+pytesseract
+pillow
+pandas
+openpyxl
+python-dateutil
+regex
+langchain_core

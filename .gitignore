@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+agents/__pycache__/
+utils/__pycache__/
+excel/__pycache__/
